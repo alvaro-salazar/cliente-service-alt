@@ -1,5 +1,5 @@
 name: CI — Build, Test & Docker
-
+# Pipeline
 # Se dispara en cada push o PR hacia main
 on:
   push:
